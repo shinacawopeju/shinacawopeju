@@ -1,6 +1,6 @@
 # Hi, I’m Shina Awopeju 👋
 
-I’m a Business Analyst with 4+ years of experience improving business performance through process optimisation, requirements engineering, and data-driven decision support. I work at the intersection of **data, technology, and operations**, translating business needs into clear requirements, actionable insights, and practical solutions that improve efficiency, user experience, and decision-making.
+I’m a Business & Data Analyst with 4+ years of experience improving business performance through process optimisation, requirements engineering, and data-driven decision support. I work at the intersection of **data, technology, and operations**, translating business needs into clear requirements, actionable insights, and practical solutions that improve efficiency, user experience, and decision-making.
 
 ---
 
