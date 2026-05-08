@@ -69,3 +69,4 @@ This GitHub is a portfolio of practical business analysis and analytics work, in
 📍 Leicester, United Kingdom  
 💼 LinkedIn: https://linkedin.com/in/shinacawopeju  
 📧 Email: shinacawopeju@gmail.com
+💼 Portfolio website: https://sites.google.com/view/shina-awopeju
