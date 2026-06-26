@@ -1,4 +1,4 @@
-# Hi, I’m Shina Awopeju 👋
+# Hi, I’m Shina Awopeju
 
 I’m a Business & Data Analyst with 4+ years of experience improving business performance through process optimisation, requirements engineering, and data-driven decision support. I work at the intersection of **data, technology, and operations**, translating business needs into clear requirements, actionable insights, and practical solutions that improve efficiency, user experience, and decision-making.
 
@@ -54,7 +54,6 @@ This GitHub is a portfolio of practical business analysis and analytics work, in
 - SQL queries and analysis notebooks
 - Power BI / Excel dashboard projects and insight summaries
 
-> If you’re reviewing my profile: start with the pinned repositories to see complete project walkthroughs.
 
 ---
 
